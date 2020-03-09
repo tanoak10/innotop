@@ -13,3 +13,8 @@ The manual is embedded into the program in Perl's POD format, so it should be av
 through perldoc and man.
 
 The full history has been imported in github.
+cmd:
+
+```shell
+innotop -h 127.0.0.1 -u admin -p'123456'
+```
